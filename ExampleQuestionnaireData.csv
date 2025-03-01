@@ -1,41 +1,11 @@
-﻿ParticipantNo,Age,Country,Likert1,Likert2,Likert3,Likert4,Likert5,Word1,Word2,Word3
-1,Under30,UK,Agree,Strongly Agree,Strongly Agree,Disagree,Agree,Anxiety,Worried,fearful
-2,30-60,International,Agree,Agree,Strongly Agree,Disagree,Strongly Agree,Scared,Worried,anxious
-3,Over60,International,Strongly Agree,Strongly Agree,Strongly Disagree,Strongly Disagree,Agree,angry,fearful,hopeful
-4,Under30,International,Disagree,Strongly Agree,Strongly Agree,Agree,Disagree,anxious,unhappy,
-5,Under30,International,Neutral,Agree,Agree,Neutral,Neutral,Frightened,Worried,
-6,Under30,UK,Strongly Disagree,Agree,Neutral,Agree,Disagree,Worried,sad,unhappy
-7,30-60,UK,Strongly Agree,Strongly Agree,Neutral,Strongly Disagree,Agree,Scared,Terrified,Frightened
-8,Over60,International,Strongly Disagree,Strongly Agree,Strongly Disagree,Strongly Agree,Strongly Disagree,anxious,worried,terrified
-9,Over60,International,Strongly Disagree,Strongly Agree,Disagree,Strongly Agree,Strongly Disagree,anxious,Worried,
-10,Under30,UK,Agree,Strongly Agree,Disagree,Disagree,Agree,ambivalent,not worried,
-11,30-60,International,Strongly Agree,Strongly Agree,Disagree,Disagree,Strongly Agree,Unconcerned,bored,
-12,30-60,UK,Agree,Neutral,Agree,Strongly Disagree,Strongly Agree,anxious,worried,fearful
-13,30-60,International,Disagree,Agree,Strongly Agree,Agree,Strongly Disagree,rage,fear,angry
-14,Under30,International,Strongly Disagree,Strongly Agree,Strongly Agree,Strongly Agree,Disagree,sad,worried,hopeless
-15,,,Strongly Agree,Strongly Agree,Neutral,Strongly Disagree,Strongly Agree,,,
-16,30-60,UK,Neutral,Agree,Neutral,Agree,Neutral,worry,fear,upset
-17,Over60,International,Neutral,Agree,Strongly Disagree,Neutral,Agree,unhappy,hopeless,
-18,Over60,International,Strongly Disagree,Strongly Agree,Agree,Agree,Strongly Disagree,afraid,scared,fatigued
-19,Under30,International,Agree,Strongly Agree,Agree,Disagree,Agree,angry,sad,
-20,Under30,UK,Agree,Agree,Strongly Agree,Disagree,Agree,sad,tired,anxious
-21,30-60,International,Strongly Agree,Strongly Agree,Strongly Disagree,Strongly Disagree,Agree,worry,Bored,upset
-22,30-60,UK,Disagree,Strongly Agree,Agree,Strongly Agree,Disagree,fearful,Frightened,
-23,,,Disagree,Agree,Disagree,Strongly Agree,Disagree,,,
-24,30-60,UK,Agree,Strongly Agree,Disagree,Strongly Disagree,Agree,angry,upset,
-25,Over60,International,Strongly Agree,Agree,Strongly Disagree,Strongly Disagree,Strongly Agree,Anxiety,unhappy,hope
-26,Over60,UK,Strongly Agree,Strongly Agree,Neutral,Disagree,Agree,Angry,Worried,
-27,Under30,International,Strongly Disagree,Strongly Disagree,Neutral,Strongly Agree,Disagree,,,
-28,30-60,UK,Neutral,Agree,Agree,Disagree,Disagree,Anxiety,despondent,Worried
-29,Under30,International,Agree,Strongly Agree,Strongly Agree,Disagree,Strongly Agree,,,
-30,Over60,UK,Neutral,Strongly Agree,Disagree,Neutral,Neutral,fake news,consipiracy,
-31,Over60,UK,Strongly Agree,Strongly Agree,Disagree,Strongly Disagree,Strongly Agree,hopeless,worry,optimisim
-32,Under30,International,Agree,Agree,Agree,Neutral,Neutral,,,
-33,Under30,International,Strongly Disagree,Strongly Agree,Strongly Agree,Strongly Agree,Disagree,,,
-34,30-60,International,Disagree,Strongly Agree,Agree,Agree,Strongly Disagree,angry,worried,
-35,30-60,UK,Strongly Agree,Agree,Disagree,Strongly Disagree,Agree,Frightened,worried,hopeless
-36,Over60,UK,Disagree,Agree,Agree,Neutral,Neutral,Worried,,
-37,30-60,UK,Agree,Strongly Agree,Agree,Disagree,Neutral,concerned,worried,Frightened
-38,30-60,International,Strongly Disagree,Agree,Agree,Agree,Strongly Disagree,positive,optimistic,hopeful
-39,Over60,International,Agree,Strongly Agree,Strongly Disagree,Disagree,Strongly Agree,Frightened,anxious,Worried
-40,30-60,UK,Strongly Agree,Strongly Agree,Disagree,Disagree,Strongly Agree,worried,concern,hopeless
+Age,Gender,Group,Spending_Score,Income,Satisfaction,Recommendation,Traditional_Stores_Preference,Online_Stores_Preference
+25,Male,A,60,3000000,Agree,5,3,4
+30,Female,B,85,4000000,Strongly Agree,5,4,5
+22,LGBTQ,A,50,3500000,Neutral,1,2,3
+28,Male,A,70,5000000,Disagree,1,5,5
+35,Female,B,90,8000000,Agree,5,3,4
+28,LGBTQ,A,75,4500000,Strongly Agree,5,4,5
+25,Female,B,65,3800000,Neutral,1,2,3
+30,Male,A,80,5500000,Disagree,4,5,6
+22,Female,B,55,3200000,Agree,5,4,5
+28,Male,A,72,4800000,Strongly Agree,5,3,4
